@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/98a1dff7e06ac4f4af392235cbab587848ff33ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f908623fabb018f0020f736db01d189470a0d27a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/043b2cfabb7ee9af5464f3e69e9485fda7ef18fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92183cc44cc89165f61d3280084ee60329756867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_c5e660fce35f1fcee12c254c5316b6b9413524d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/5b599f8bbc5470eba417937887684bfbc19562b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65c7f22a661312956463f12868939a8595c32fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/79c14f8893ad1f64768ea3623955454413506995/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_d06d418f8b8a8c8f625bfe944fbd05c412a652b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/e1daa52fa12cabb3479d221cf2243337d0c93f06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_e468f879bbe9f6036d8bf7d14c59c7d0a0c74de5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/79c14f8893ad1f64768ea3623955454413506995/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d06d418f8b8a8c8f625bfe944fbd05c412a652b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/d84003add240b7263461417e3aa8bd6b4e0e8671/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_af22878c2ebf3438564e9603c1194016557b5127.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/poi-3.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ae92292a2043888b40d418da97dc0b669fde326">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/2/poi-3.17_2790c5351de73beb6570b8bda29f049db7098a70/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/0d802304184b7258451af3b6a8834b124e9a020b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_ded59422f9c3d8bbd7586272de3317110ff5c381.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/e1daa52fa12cabb3479d221cf2243337d0c93f06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e468f879bbe9f6036d8bf7d14c59c7d0a0c74de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/e0d0080882c5bebe4d5ac118550ad6d31c061d41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec381795dc2df1016711fcc92c2545f27b33d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/d84003add240b7263461417e3aa8bd6b4e0e8671/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af22878c2ebf3438564e9603c1194016557b5127/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/e0d0080882c5bebe4d5ac118550ad6d31c061d41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_7ec381795dc2df1016711fcc92c2545f27b33d50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/0d802304184b7258451af3b6a8834b124e9a020b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ded59422f9c3d8bbd7586272de3317110ff5c381/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/poi-3.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0ae92292a2043888b40d418da97dc0b669fde326">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/poi-3.17_2790c5351de73beb6570b8bda29f049db7098a70.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/ecd3b7c1738939da45ed0574a65b9f2f5442349b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2f4dc89055ca6e8983cb2bb6a4fa14adcfb673e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/eb1fedd9cbc6b3217e2ce15217f5ec3b5b5372fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_971136c0af1c82f499d698d616fef89d0c79a42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/dcb9ca42c2df27e6ef08d38e80899d90269307d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_1040d2036a8dd776bd89dd9b865d2363b33b5d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/a755bec16e36376ba4f60fc6ba16b2bea6277a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_e3b4edb7e8ef73b7141966f581b66592d4c4f2f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/eb1fedd9cbc6b3217e2ce15217f5ec3b5b5372fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971136c0af1c82f499d698d616fef89d0c79a42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/jsoup-1.10.3_15bf18a1794e36e054f868992425dcb5e6dd2f16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/929aaf7c5c06ab0dc32ea1fc4b958473558f9d21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8394c931ec72353babf9fca2be7628c65398697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/dcb9ca42c2df27e6ef08d38e80899d90269307d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1040d2036a8dd776bd89dd9b865d2363b33b5d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/a755bec16e36376ba4f60fc6ba16b2bea6277a65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3b4edb7e8ef73b7141966f581b66592d4c4f2f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/929aaf7c5c06ab0dc32ea1fc4b958473558f9d21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_d8394c931ec72353babf9fca2be7628c65398697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/043b2cfabb7ee9af5464f3e69e9485fda7ef18fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_92183cc44cc89165f61d3280084ee60329756867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_c5e660fce35f1fcee12c254c5316b6b9413524d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/e66256703fb845410bd44ae89867f3972457e33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5803de034bf8520666cfb1e3c2b91c27bd95686c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/e66256703fb845410bd44ae89867f3972457e33f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_5803de034bf8520666cfb1e3c2b91c27bd95686c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/2353c0199ec6831822afa4096c170d02982a0d53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7071a2e41e516e19f06a57ab9520172493dd3eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_b7de0f4018edb5bc06c6cbaa5f4069211ecb5ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/f3fa8f20f27022be84536bdfd2b7723689916f99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_ec86f1a7272d41c0a19363d146996658e6c72f79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-3.9.0_b7de0f4018edb5bc06c6cbaa5f4069211ecb5ea3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/f3fa8f20f27022be84536bdfd2b7723689916f99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec86f1a7272d41c0a19363d146996658e6c72f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/8b3084705437961d151a18c6c94beeb04305b98b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_549bbcc67987f0396d0f1ad1bab75b63b48eee4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.10.3_15bf18a1794e36e054f868992425dcb5e6dd2f16/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/0bb880493eeeebf1368b96fd5c36cd64d096a5a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_433db724e9296adfed43464ffa53731dee019564.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_997787e60265ab5045fd28524231e14763ac8e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.13.0_8c4b3dc2a539bcf16a17ca06cc3385bf2b892423/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/8b3084705437961d151a18c6c94beeb04305b98b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_549bbcc67987f0396d0f1ad1bab75b63b48eee4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/0bb880493eeeebf1368b96fd5c36cd64d096a5a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_433db724e9296adfed43464ffa53731dee019564/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/5554cc3e98db34be06410bff4a370fcc09fa8122/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_69f397432fb1e13579e7f7ef3e00f337ebd73c9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/dc3b16c1e38cbb580ec729c6506185856ea5f8af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9663ace603cce83a39c92c34c470e3cd0d7f3a83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/b93a95b4e80895fe0e6115d46c44d763cd407a72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abe2563bef83bb21f3abd7e93a5dc8ce9b82e911/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/AndroidStudioProjects/capstone/app/libs/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8c4b3dc2a539bcf16a17ca06cc3385bf2b892423.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d967a80b79b1c33cf9a8821e90d9fc01d01e4537/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/aea279f2c17a88754b311a113760f157fe1abe68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_96be965e249ab912366137bbd8881b1f05b228e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/aea279f2c17a88754b311a113760f157fe1abe68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96be965e249ab912366137bbd8881b1f05b228e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/a1bc96051dca7d1a82f70a158dc528fefeb389b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cba6ce227bface93fbf2a78a54a0dc94fa5d975/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_d967a80b79b1c33cf9a8821e90d9fc01d01e4537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/5433ee3571cd2fa2a76449ad5d5e3ed5afb5d778/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_b145c80330b5e1e9f034693db85f69a70c8f0575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/5b599f8bbc5470eba417937887684bfbc19562b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_65c7f22a661312956463f12868939a8595c32fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/a1bc96051dca7d1a82f70a158dc528fefeb389b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_5cba6ce227bface93fbf2a78a54a0dc94fa5d975.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/5433ee3571cd2fa2a76449ad5d5e3ed5afb5d778/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b145c80330b5e1e9f034693db85f69a70c8f0575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/4d521ff24aec2629ab7005827954b12810884a07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d5880dbf10b6255c3bbf24a8ece29be1e2833bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lee/.android/build-cache/5554cc3e98db34be06410bff4a370fcc09fa8122/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69f397432fb1e13579e7f7ef3e00f337ebd73c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/b93a95b4e80895fe0e6115d46c44d763cd407a72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_abe2563bef83bb21f3abd7e93a5dc8ce9b82e911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/4d521ff24aec2629ab7005827954b12810884a07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_9d5880dbf10b6255c3bbf24a8ece29be1e2833bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/2353c0199ec6831822afa4096c170d02982a0d53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_b7071a2e41e516e19f06a57ab9520172493dd3eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lee/.android/build-cache/dc3b16c1e38cbb580ec729c6506185856ea5f8af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lee/AndroidStudioProjects/capstone/app/build/intermediates/pre-dexed/debug/classes_9663ace603cce83a39c92c34c470e3cd0d7f3a83.jar" />
+    </item>
+
+</items>
